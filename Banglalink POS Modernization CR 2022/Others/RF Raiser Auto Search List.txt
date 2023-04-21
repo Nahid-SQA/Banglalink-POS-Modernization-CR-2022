@@ -1,0 +1,46 @@
+
+ Admin
+
+1. CreditLimitEdit.aspx
+2. ApproveCreditLimit.aspx
+
+
+
+
+ Sales
+
+1. RFMaster.aspx
+2. RFView.aspx
+3. RFForApprovalMaster.aspx
+4. MapDistMobileNo.aspx
+5. CreditCollection.aspx
+6. Collection.aspx
+7. CollectionAdd.aspx
+8. RFMasterDBMAdd.aspx
+9. rptDistributorSalesLedger.aspx
+10. rptDistributorCollectionVSSales.aspx
+11. rptDistributorBalanceSpecificDate.aspx
+12. rptDistBalanceMovement.aspx
+13. rptDistributorSales.aspx
+14. DistributorTermination.aspx
+15. BalanceTransfer.aspx
+16. AlternativeBalanceTransfer.aspx
+17. CreditLimitEdit.aspx
+18. ApproveCreditLimit.aspx
+19. DeliveryPending.aspx
+20. rptDistBalFinStockLedger.aspx
+21. rptDistBalFinInvoiceSummary.aspx
+22. rptDistBalFinLedgerSummary.aspx
+23. rptDistributorSalesLedgerWithouCC.aspx
+24. rptCommissionStatement.aspx
+25. BankGuarantee.aspx
+26. BankGuaranteeAdd.aspx
+27. BankGuaranteeReleaseRequest.aspx
+28. BankGuaranteeApproval.aspx
+
+
+
+
+ Inventory
+
+1. 

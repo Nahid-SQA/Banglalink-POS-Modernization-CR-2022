@@ -1,0 +1,40 @@
+
+
+
+1. "SIM TYPE" dropdown not availabale in "Product" Add, Edit page.
+2. In Product price brekups Add page "Price Breakups" , "Channel" can not be added. For this reason data can not be saved .
+3. File can not be uploaded in Upload Distributor Credit page , throw an error message 
+	"Below distributors BG amount or expiry date is over: DHKDHK01"
+
+4. In Distributor Credit Edit page, "Distributor" has two input field for showing data. How to search it??. (It is not a Bug)
+
+5. Doesn`t work "Add New" & "Edit" button in Channel page. (It is not a Bug)
+6. Doesn`t work "Add New" & "Edit" button in Location page. (It is not a Bug)
+
+7. Write about show button in the Warehouse page..Show button does not work. (It is not a Bug)
+8. Doesn`t work "Create Directory" button in Create Single Directory in FTP Server. 
+9. Doesn`t work "Create Directory" button in Create Directory in FTP Server.
+
+10. Assign User to Teller ...Show button does not work.
+
+11. Role Info page...problem in deleting [After page refreshing data can be deleted otherwise not].
+12. User Group page...problem in deleting, Updating [Page Refgreshing is needed for showing update data & delete data].
+13. "Assign Center", "User info" these page are overloading very much time. 
+
+14. Userwise Center page..."Show button" doesn`t work, No available assaign & unassign distributors.
+15. Shop Reopen no data available.
+
+16. Report Page_ 
+
+	"Product" page is not ok.
+	"Price Breakup" Page is not ok.
+	"Promotion Pricing" Page doesn`t display Report page.
+	"Shop Calender" Page Show button doesn`t work.
+	"Shop Opending And Closing" Page Show button doesn`t work.
+	"RF" Page Show button doesn`t work.
+	"Collection" Page Report page doesn`t display properly.
+	"Invoice" Page throw an exception.
+	"Product Pricing" page is not working.
+	"Return Audit" Page Show button doesn`t work.
+	"Center User" Page Show button doesn`t work.
+
